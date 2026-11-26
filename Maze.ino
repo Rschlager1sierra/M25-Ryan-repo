@@ -5,7 +5,7 @@ const int echoPin = 8;
 int turns = 0;
 const float wall_cm = 20;
 const int finalMs = 4000;
-
+//this comment was added in from a RaspberryPi
 void setup() {
   // put your setup code here, to run once:
   robot.begin();
